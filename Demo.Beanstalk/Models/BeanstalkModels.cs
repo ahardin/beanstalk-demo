@@ -14,8 +14,8 @@ namespace Demo.Beanstalk.Models
             : base("DefaultConnection") { }
 
         public DbSet<Movie> Movies { get; set; }
-        public DbSet<Rating> Ratings { get; set; }
-        public DbSet<User> Users { get; set; }
+        //public DbSet<Rating> Ratings { get; set; }
+        //public DbSet<User> Users { get; set; }
     }
 
     public class Movie

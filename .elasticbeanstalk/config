@@ -1,0 +1,6 @@
+[global]
+ApplicationName=DemoBeanstalk
+AwsCredentialFile=C:\Users\cent082\.elasticbeanstalk\aws_credential_file
+DevToolsEndpoint=git.elasticbeanstalk.us-east-1.amazonaws.com
+EnvironmentName=QA-Environment
+Region=us-east-1
